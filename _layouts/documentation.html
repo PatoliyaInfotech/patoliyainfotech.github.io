@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<header id="header" class="header">
+    <div class="container">
+        <div class="branding">
+            {%- include logo.html -%}
+        </div>
+        <ol class="breadcrumb">
+            <li><a href="{{ "/" | relative_url }}">Home</a></li>
+            <li class="active">{{page.title}}</li>
+        </ol>
+    </div>
+</header>
+<div class="doc-wrapper">
+    <div class="container">
+        <div id="doc-header" class="doc-header text-center">
+            <h1 class="doc-title"> <img  class="doc-title-icon" src="/coding/assets/svg/{{page.svg}}.svg"> {{page.title}}</h1>
+            <div class="meta"><i class="fa fa-clock-o"></i> Last updated: {{page.date_updated |  date: "%B %d, %Y - %A" }}</div>
+        </div>
+        <div class="doc-body">
+            {{ content }}
+        </div>
+    </div>
+</div>

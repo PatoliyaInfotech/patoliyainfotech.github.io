@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<header id="header" class="header">
+    <div class="container text-center">
+        <div class="branding">
+            {%- include logo.html -%}
+        </div>
+        <p>Coding Standards for Developers</p>
+        <ol class="breadcrumb is-hidden">
+            <li><a href="{{ "/" | relative_url }}">Home</a></li>
+            <li class="active">{{page.title}}</li>
+        </ol>
+    </div>
+</header>
+
+<section class="cards-section text-center">
+    <div class="container">
+        <div id="cards-wrapper" class="cards-wrapper row">
+            {% for page in site.coding_pages %}
+            <div class="item item-primary col-md-4 col-sm-6 col-xs-6">
+                <div class="item-inner">
+                    <div class="icon-holder">
+                        <img src="/coding/assets/svg/{{page.svg}}.svg">
+                    </div>
+                    <h3 class="title">{{ page.title }}</h3>
+                    <p class="intro">{{ page.description }}</p>
+                    <a class="link" href="{{ page.permalink | relative_url }}"><span></span></a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+    </div>
+</section>
