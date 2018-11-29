@@ -1,5 +1,5 @@
 ---
-layout: php
+layout: reactjs
 title: "Get Started"
 ---
 
