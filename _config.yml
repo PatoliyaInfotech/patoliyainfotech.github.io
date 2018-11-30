@@ -42,7 +42,7 @@ collections:
 - php
 - nodejs
 - reactjs
-- lonic
+- ionic
 
 coding_pages:
   -
@@ -73,20 +73,20 @@ coding_pages:
   -
     title: "PHP"
     svg: "php"
-    description: "Coming Soon"
-    permalink: "/php"
+    description: ""
+    permalink: "php"
   -
     title: "NodeJs"
     svg: "nodejs"
-    description: "Coming Soon"
+    description: ""
     permalink: "/nodejs"
   -
     title: "ReactJs"
     svg: "reactjs"
-    description: "Coming Soon"
+    description: ""
     permalink: "/reactjs"
   -
     title: "Ionic"
     svg: "ionic"
     description: "Coming Soon"
-    permalink: "/ionic"
+    permalink: "ionic"

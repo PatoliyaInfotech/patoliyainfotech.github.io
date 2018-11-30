@@ -1,5 +1,5 @@
 ---
-layout: reactjs
+layout: nodejs
 title: "Formatting"
 ---
 

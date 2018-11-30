@@ -1,5 +1,5 @@
 ---
-layout: lonic
+layout: ionic
 title: "Get Started"
 ---
 
