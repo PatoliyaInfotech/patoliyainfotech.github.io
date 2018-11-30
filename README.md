@@ -9,17 +9,24 @@
 ├── _cleancode                # clean code Documentation
 ├── _database                 # Database Documentation
 ├── _includes                 # Template files use by Jekyll
+├── _ionic                    # Ionic Documentation
 ├── _javascript               # Javascript Best Practices Documentation
 ├── _layouts                  # Template files use by Jekyll
+├── _nodejs                   # NodeJs Documentation
 ├── _php                      # php related Documentation
+├── _reactjs                  # ReactJs Documentation
 ├── _site                     # Public directory rendered by Jekyll
 ├── assets                    # Contains Styles, Images and SVG
 ├── angularjs.md              # Angular JS Page
 ├── api.md                    # API Page
+├── cleancode.md              # CleanCode Page
 ├── database.md               # Database Page
-├── php.md                    # Php Page
-├── index.md                  # Main Page of Jekyll
+├── ionic.md                  # Ionic Page
 ├── javascript.md             # Javascript Page
+├── nodejs.md                 # NodeJs Page
+├── php.md                    # Php Page
+├── reactjs.md                # ReactJs Page
+├── index.md                  # Main Page of Jekyll
 ├── config.yml                # Configuration for Jekyll
 ```
 
