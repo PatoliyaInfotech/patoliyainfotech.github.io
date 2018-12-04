@@ -67,7 +67,7 @@ Control statements such as `if`, `for`, `while` etc. should have one space on ei
 
 In these examples, each pair shows the incorrect way followed by the correct way:
 ```js
-/* incorrect *
+/* incorrect */
 $i=0;
 
 if(( $i<2 )||( $i>5 )) 
