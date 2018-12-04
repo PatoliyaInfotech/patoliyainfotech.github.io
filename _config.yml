@@ -54,7 +54,7 @@ coding_pages:
     title: "Javascript"
     svg: "javascript"
     description: ""
-    permalink: "/js"
+    permalink: "/javascript"
   -
     title: "AngularJs"
     svg: "angularjs"
