@@ -21,7 +21,7 @@
 ├── api.md                    # API Page
 ├── cleancode.md              # CleanCode Page
 ├── database.md               # Database Page
-├── ionic.md                  # Ionic Page
+├── git.md                    # Git Page
 ├── javascript.md             # Javascript Page
 ├── nodejs.md                 # NodeJs Page
 ├── php.md                    # Php Page
