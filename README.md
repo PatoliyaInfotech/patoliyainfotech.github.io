@@ -9,7 +9,6 @@
 ├── _cleancode                # clean code Documentation
 ├── _database                 # Database Documentation
 ├── _includes                 # Template files use by Jekyll
-├── _ionic                    # Ionic Documentation
 ├── _javascript               # Javascript Best Practices Documentation
 ├── _layouts                  # Template files use by Jekyll
 ├── _nodejs                   # NodeJs Documentation
