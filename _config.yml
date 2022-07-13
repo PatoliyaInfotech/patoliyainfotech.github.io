@@ -42,7 +42,8 @@ collections:
 - php
 - nodejs
 - reactjs
-- ionic
+- git
+
 
 coding_pages:
   -
@@ -86,7 +87,7 @@ coding_pages:
     description: ""
     permalink: "/reactjs"
   -
-    title: "Ionic"
-    svg: "ionic"
-    description: "Coming Soon"
-    permalink: "ionic"
+    title: "Git"
+    svg: "git"
+    description: ""
+    permalink: "/git"
