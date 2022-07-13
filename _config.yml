@@ -88,6 +88,6 @@ coding_pages:
     permalink: "/reactjs"
   -
     title: "Git"
-    svg: "git"
+    svg: "github"
     description: ""
     permalink: "/git"

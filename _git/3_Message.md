@@ -16,9 +16,10 @@ $ git commit -m "Add auto login for verified users - Closes BLG-20"
 
 # bad
 $ git commit -m "Quick fix"
+
 ```
 
-##### A commit messages consists of three distinct parts separated by a blank line: the title, an optional body and an optional footer. The layout looks like this:
+- A commit messages consists of three distinct parts separated by a blank line: the title, an optional body and an optional footer. The layout looks like this:
 
 ```
 type: Subject
@@ -39,6 +40,7 @@ footer
 - test: Adding tests, refactoring test
 - ci: changes to our CI configuration files and scripts (example scopes: config.yml, CircleCI, ..etc)
 - chore: Updating build tasks, package manager configs, etc; no production code change
+
 
 #### Example Commit Message
 
