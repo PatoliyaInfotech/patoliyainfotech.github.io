@@ -43,6 +43,8 @@ collections:
 - nodejs
 - reactjs
 - git
+- ubuntu
+- typescript
 
 
 coding_pages:
@@ -93,6 +95,11 @@ coding_pages:
     permalink: "/git"
   -
     title: "Ubuntu"
-    svg: "ubuntu"
+    svg: "github"
     description: ""
     permalink: "/ubuntu"
+  -
+    title: "TypeScript"
+    svg: "typescript"
+    description: ""
+    permalink: "/typescript"
