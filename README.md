@@ -25,6 +25,7 @@
 ├── nodejs.md                 # NodeJs Page
 ├── php.md                    # Php Page
 ├── reactjs.md                # ReactJs Page
+├── ubuntu.md                 # Ubuntu Page
 ├── index.md                  # Main Page of Jekyll
 ├── config.yml                # Configuration for Jekyll
 ```
