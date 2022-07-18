@@ -95,7 +95,7 @@ coding_pages:
     permalink: "/git"
   -
     title: "Ubuntu"
-    svg: "github"
+    svg: "ubuntu"
     description: ""
     permalink: "/ubuntu"
   -
