@@ -2,7 +2,12 @@
 layout: javascript
 title: "General"
 ---
-###### - Prefer to use **ES6** over Ecmascript 2015
+
+- **[Javascript guide](https://google.github.io/styleguide/jsguide.html)**
+- **[Javascript tutorials](https://javascript.info/)**
+
+
+###### - Prefer to use **ES6** over Ecmascript 2015 [ES6] (https://www.javatpoint.com/es6)
 ###### - Introduce **module loader** like [webpack](https://webpack.js.org/) on project
 ###### - Introduce **mapper** on a project for api request
 ###### - Enforcing **component based architecture**
