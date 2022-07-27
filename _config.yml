@@ -45,7 +45,9 @@ collections:
 - git
 - ubuntu
 - typescript
-
+- datastructure
+- css
+- html
 
 coding_pages:
   -
@@ -103,3 +105,18 @@ coding_pages:
     svg: "typescript"
     description: ""
     permalink: "/typescript"
+  -
+    title: "Data Structure"
+    svg: "ds"
+    description: ""
+    permalink: "/datastructure"
+  -
+    title: "CSS"
+    svg: "css"
+    description: ""
+    permalink: "/css"
+  -
+    title: "HTML"
+    svg: "html"
+    description: ""
+    permalink: "/html"
