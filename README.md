@@ -15,6 +15,10 @@
 ├── _php                      # php related Documentation
 ├── _reactjs                  # ReactJs Documentation
 ├── _ubuntu                   # Ubuntu Documentation
+├── _typescript               # Typescript Documentation
+├── _datastructure            # Data Structure Documentation
+├── _css                      # CSS Documentation
+├── _html                     # HTML Documentation
 ├── _site                     # Public directory rendered by Jekyll
 ├── assets                    # Contains Styles, Images and SVG
 ├── angularjs.md              # Angular JS Page
@@ -27,6 +31,10 @@
 ├── php.md                    # Php Page
 ├── reactjs.md                # ReactJs Page
 ├── ubuntu.md                 # Ubuntu Page
+├── typescript.md             # Typescript Page
+├── datastructure.md          # Data structure Page
+├── css.md                    # CSS Page
+├── html.md                   # HTML Page
 ├── index.md                  # Main Page of Jekyll
 ├── config.yml                # Configuration for Jekyll
 ```
