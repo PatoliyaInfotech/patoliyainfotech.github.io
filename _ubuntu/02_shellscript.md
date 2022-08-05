@@ -24,13 +24,15 @@ title: "Shell script"
 
 - Generate ssh key using the command 
    ```
-      ssh-keygen -o
+      ssh-keygen -t ed25519 -C "your_email@example.com"
    ```
 
 - Copy the content of public key using the command 
    ```
       cat ~/.ssh/id_rsa.pub
    ```
+   - id_rsa.pub is your file name which you entered while generating the ssh key 
+   - if file not found then it's available inside home directory 
 - There is one more way to copy the public key 
    1. Go the the .ssh folder 
    2. Open the id_rsa.pub file in text editor 
