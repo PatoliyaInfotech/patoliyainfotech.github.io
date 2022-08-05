@@ -40,6 +40,7 @@ collections:
 - javascript
 - angularjs
 - reactjs
+- vuejs
 - nodejs
 - typescript
 - php
@@ -81,6 +82,11 @@ coding_pages:
     svg: "reactjs"
     description: ""
     permalink: "/reactjs"
+  -
+    title: "VueJs"
+    svg: "vuejs"
+    description: ""
+    permalink: "/vuejs"
   -
     title: "NodeJs"
     svg: "nodejs"
