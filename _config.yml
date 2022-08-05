@@ -34,27 +34,38 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-- cleancode
+- ubuntu
+- html
+- css
 - javascript
 - angularjs
+- reactjs
+- nodejs
+- typescript
+- php
 - api
 - database
-- php
-- nodejs
-- reactjs
 - git
-- ubuntu
-- typescript
+- cleancode
 - datastructure
-- css
-- html
+
 
 coding_pages:
   -
-    title: "CleanCode"
-    svg: "cleancode"
+    title: "Ubuntu"
+    svg: "ubuntu"
     description: ""
-    permalink: "/cleancode"
+    permalink: "/ubuntu"
+  -
+    title: "HTML"
+    svg: "html"
+    description: ""
+    permalink: "/html"
+  -
+    title: "CSS"
+    svg: "css"
+    description: ""
+    permalink: "/css"
   -
     title: "Javascript"
     svg: "javascript"
@@ -66,57 +77,48 @@ coding_pages:
     description: ""
     permalink: "angularjs"
   -
-    title: "API"
-    svg: "api"
+    title: "ReactJs"
+    svg: "reactjs"
     description: ""
-    permalink: "/api"
-  -
-    title: "DataBase"
-    svg: "database"
-    description: ""
-    permalink: "/database"
-  -
-    title: "PHP"
-    svg: "php"
-    description: ""
-    permalink: "php"
+    permalink: "/reactjs"
   -
     title: "NodeJs"
     svg: "nodejs"
     description: ""
     permalink: "/nodejs"
   -
-    title: "ReactJs"
-    svg: "reactjs"
+    title: "TypeScript"
+    svg: "typescript"
     description: ""
-    permalink: "/reactjs"
+    permalink: "/typescript"
+  -
+    title: "PHP"
+    svg: "php"
+    description: ""
+    permalink: "php"
+  -
+    title: "DataBase"
+    svg: "database"
+    description: ""
+    permalink: "/database"
   -
     title: "Git"
     svg: "github"
     description: ""
     permalink: "/git"
   -
-    title: "Ubuntu"
-    svg: "ubuntu"
+    title: "CleanCode"
+    svg: "cleancode"
     description: ""
-    permalink: "/ubuntu"
-  -
-    title: "TypeScript"
-    svg: "typescript"
-    description: ""
-    permalink: "/typescript"
+    permalink: "/cleancode"
   -
     title: "Data Structure"
     svg: "ds"
     description: ""
     permalink: "/datastructure"
   -
-    title: "CSS"
-    svg: "css"
+    title: "API"
+    svg: "api"
     description: ""
-    permalink: "/css"
-  -
-    title: "HTML"
-    svg: "html"
-    description: ""
-    permalink: "/html"
+    permalink: "/api"
+
