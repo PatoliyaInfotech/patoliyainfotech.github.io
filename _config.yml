@@ -49,6 +49,7 @@ collections:
 - git
 - cleancode
 - datastructure
+- practical
 
 
 coding_pages:
@@ -127,4 +128,9 @@ coding_pages:
     svg: "api"
     description: ""
     permalink: "/api"
+  -
+    title: "Practical"
+    svg: "practical"
+    description: ""
+    permalink: "/practical"
 
