@@ -5,9 +5,7 @@ title: "General"
 
 - **[JQuery tutorials](https://www.w3schools.com/jquery/default.asp)**
 - **[PHP tutorials](https://www.w3schools.com/php/default.asp)**
-
 - **[Codeigniter styleguide](https://codeigniter.com/userguide3/general/styleguide.html)**
-
 - **[PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)**
 
 ### PHP Coding Guidelines & Best Practices
