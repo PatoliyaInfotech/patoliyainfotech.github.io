@@ -500,6 +500,10 @@ select {
 .doc-header .meta {
   color: #a2a6af;
 }
+.doc-header .completion-time {
+  color: #f33a22;
+  font-weight: 600
+}
 .doc-content {
   margin-left: 230px;
 }
