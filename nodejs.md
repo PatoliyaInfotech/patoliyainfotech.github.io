@@ -4,4 +4,5 @@ title: NodeJs
 svg: nodejs
 permalink: /nodejs/
 date_updated: "November 29, 2018"
+completion_time: "28 Hours"
 ---
