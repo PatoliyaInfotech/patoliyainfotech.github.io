@@ -5,6 +5,7 @@ title: "General"
 
 - **[Javascript guide](https://google.github.io/styleguide/jsguide.html)**
 - **[Javascript tutorials](https://javascript.info/)**
+- **[JQuery tutorials](https://www.w3schools.com/jquery/default.asp)**
 
 
 ###### - Prefer to use **ES6** over Ecmascript 2015 [ES6] (https://www.javatpoint.com/es6)
