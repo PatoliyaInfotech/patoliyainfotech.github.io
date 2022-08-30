@@ -38,11 +38,11 @@ collections:
 - html
 - css
 - javascript
+- typescript
 - angularjs
 - reactjs
 - vuejs
 - nodejs
-- typescript
 - php
 - api
 - database
@@ -74,6 +74,11 @@ coding_pages:
     description: ""
     permalink: "/javascript"
   -
+    title: "TypeScript"
+    svg: "typescript"
+    description: ""
+    permalink: "/typescript"
+  -
     title: "AngularJs"
     svg: "angularjs"
     description: ""
@@ -93,11 +98,6 @@ coding_pages:
     svg: "nodejs"
     description: ""
     permalink: "/nodejs"
-  -
-    title: "TypeScript"
-    svg: "typescript"
-    description: ""
-    permalink: "/typescript"
   -
     title: "PHP"
     svg: "php"
