@@ -3,8 +3,8 @@ layout: interview_practicals
 title: "CRUD Interview Practical"
 ---
 
-### Fresher (3-4 hours) PHP and Node
-#### CRUD
+#### Fresher (3-4 hours) PHP and Node
+##### CRUD
 * SignUp (name, email, password, dob, gender, photo, status) (add validation)
 * SignIn (email, password)
 * List of all registered users
@@ -14,7 +14,7 @@ title: "CRUD Interview Practical"
 * Delete user (add confirmation popup)
 
 
-#### Advanced
+##### Advanced
 * Validations
     1. name (minimum 3 char, max 64 char)
     2. email (unique)
