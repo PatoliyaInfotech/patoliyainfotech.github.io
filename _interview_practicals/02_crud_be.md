@@ -3,7 +3,7 @@ layout: interview_practicals
 title: "CRUD Interview Practical"
 ---
 
-### Fresher (3-4 hours) CORE PHP
+### Fresher (3-4 hours) PHP and Node
 #### CRUD
 * SignUp (name, email, password, dob, gender, photo, status) (add validation)
 * SignIn (email, password)
