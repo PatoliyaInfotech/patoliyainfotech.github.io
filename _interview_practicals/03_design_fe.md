@@ -10,15 +10,15 @@ title: "FE Interview Practical"
 * List of tickets (With search functionality)
 * Check ref design
 
-![ListView](https://patoliyainfotech.github.io/assets/images/1.png)
+<img alt="ListView" src="https://patoliyainfotech.github.io/assets/images/1.png" width="300">
 
-![SearchView](https://patoliyainfotech.github.io/assets/images/2.png)
+<img alt="SearchView" src="https://patoliyainfotech.github.io/assets/images/2.png" width="300">
 
-![AddView](https://patoliyainfotech.github.io/assets/images/3.png)
+<img alt="AddView" src="https://patoliyainfotech.github.io/assets/images/3.png" width="300">
 
-![Selection](https://patoliyainfotech.github.io/assets/images/4.png)
+<img alt="Selection" src="https://patoliyainfotech.github.io/assets/images/4.png" width="300">
 
-![DateDescription](https://patoliyainfotech.github.io/assets/images/5.png)
+<img alt="DateDescription" src="https://patoliyainfotech.github.io/assets/images/5.png" width="300">
 
 
 
@@ -28,12 +28,12 @@ title: "FE Interview Practical"
 * List of invoices (With search functionality)
 * Check ref design
 
-![ListView](https://patoliyainfotech.github.io/assets/images/6.png)
+<img alt="ListView" src="https://patoliyainfotech.github.io/assets/images/6.png" width="300">
 
-![SingleView](https://patoliyainfotech.github.io/assets/images/7.png)
+<img alt="SingleView" src="https://patoliyainfotech.github.io/assets/images/7.png" width="300">
 
-![AddView](https://patoliyainfotech.github.io/assets/images/8.png)
+<img alt="AddView" src="https://patoliyainfotech.github.io/assets/images/8.png" width="300">
 
-![EditView](https://patoliyainfotech.github.io/assets/images/9.png)
+<img alt="EditView" src="https://patoliyainfotech.github.io/assets/images/9.png" width="300">
 
-![StatusUpdate](https://patoliyainfotech.github.io/assets/images/10.png)
+<img alt="StatusUpdate" src="https://patoliyainfotech.github.io/assets/images/10.png" width="300">
