@@ -49,6 +49,7 @@ collections:
 - git
 - cleancode
 - datastructure
+- interview_practicals
 - practical
 
 
@@ -128,6 +129,11 @@ coding_pages:
     svg: "api"
     description: ""
     permalink: "/api"
+  -
+    title: "Interview Practicals"
+    svg: "interview_practicals"
+    description: ""
+    permalink: "/interview_practicals"
   -
     title: "Practical"
     svg: "practical"
