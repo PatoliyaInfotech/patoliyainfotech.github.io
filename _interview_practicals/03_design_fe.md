@@ -3,37 +3,37 @@ layout: interview_practicals
 title: "FE Interview Practical"
 ---
 
-### Fresher (3-4 hours) Angular, React, Vue and JS
-#### Ticket CMS 
+#### Fresher (3-4 hours) Angular, React, Vue and JS
+##### Ticket CMS 
 * Create small CMS demo for ticketing 
 * Add, Update and Delete (With confirmation) tickets
 * List of tickets (With search functionality)
 * Check ref design
 
-![ListView](https://prnt.sc/1FPXUl_YDaMQ)
+![ListView](/assets/images/1.png)
 
-![SearchView](https://prnt.sc/WoXdEyCDoqRi)
+![SearchView](/assets/images/2.png)
 
-![AddView](https://prnt.sc/sWAyY2vAal-2)
+![AddView](/assets/images/3.png)
 
-![Selection](https://prnt.sc/oP55XHzW-4rh)
+![Selection](/assets/images/4.png)
 
-![DateDescription](https://prnt.sc/5hHC7wjC_9g6)
+![DateDescription](/assets/images/5.png)
 
 
 
-#### Advance / Experience
+##### Advance / Experience
 * Create Invoice Generator
 * Add, View, Update and Delete (With confirmation) invoices
 * List of invoices (With search functionality)
 * Check ref design
 
-![ListView](https://prnt.sc/pLXRlSjNEIWk)
+![ListView](/assets/images/6.png)
 
-![SingleView](https://prnt.sc/wHjSyV5zQoI_)
+![SingleView](/assets/images/7.png)
 
-![AddView](https://prnt.sc/eUg63ytozooj)
+![AddView](/assets/images/8.png)
 
-![EditView](https://prnt.sc/y1ML03RC_Hxn)
+![EditView](/assets/images/9.png)
 
-![StatusUpdate](https://prnt.sc/e7x2sEbL16FT)
+![StatusUpdate](/assets/images/10.png)
