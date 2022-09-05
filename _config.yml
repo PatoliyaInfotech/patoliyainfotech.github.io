@@ -46,6 +46,10 @@ collections:
 - php
 - api
 - database
+- android
+- react_native
+- qa
+- seo
 - git
 - cleancode
 - datastructure
@@ -109,6 +113,26 @@ coding_pages:
     svg: "database"
     description: ""
     permalink: "/database"
+  -
+    title: "Android"
+    svg: "android"
+    description: ""
+    permalink: "/android"
+  -
+    title: "React Native"
+    svg: "react_native"
+    description: ""
+    permalink: "/react_native"
+  -
+    title: "QA"
+    svg: "qa"
+    description: ""
+    permalink: "/qa"
+  -
+    title: "SEO"
+    svg: "seo"
+    description: ""
+    permalink: "/seo"
   -
     title: "Git"
     svg: "github"
