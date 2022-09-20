@@ -3,6 +3,6 @@ layout: php
 title: PHP
 svg: php
 permalink: /php/
-date_updated: "November 28, 2018"
-completion_time: "7 Hours"
+date_updated: "September 20, 2018"
+completion_time: "120 Hours"
 ---
