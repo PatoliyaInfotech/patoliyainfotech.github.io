@@ -4,6 +4,7 @@ title: "Codeigniter"
 ---
 - **[Latest CodeIgniter](https://codeigniter.com/user_guide/index.html)**
 - **[CodeIgniter V3](https://www.codeigniter.com/userguide3/general/welcome.html)**
+- **[CodeIgniter Tutorial](https://www.tutorialspoint.com/codeigniter/index.htm)**
 
 ### CodeIgniter - Overview
 

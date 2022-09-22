@@ -109,6 +109,11 @@ coding_pages:
     description: ""
     permalink: "php"
   -
+    title: "Laravel"
+    svg: "laravel"
+    description: ""
+    permalink: "laravel"
+  -
     title: "DataBase"
     svg: "database"
     description: ""
