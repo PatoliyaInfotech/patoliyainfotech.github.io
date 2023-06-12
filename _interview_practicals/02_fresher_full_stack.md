@@ -10,8 +10,8 @@ title: "Fresher Full Stack Practical"
 
 ### Technology Stack
 
-**Database:** MySQL, MongoDB, PostgreSQL, NoSQL, MSSql-use any one<br>
-**Server Side:** PHP, C#, Java, Node-use any one<br>
+**Database:** MySQL, MongoDB, PostgreSQL, NoSQL, MSSql - use any one<br>
+**Server Side:** PHP, C#, Java, Node - use any one<br>
 **Client Side:** JS, HTML, CSS, Bootstrap, Angular, React, Vue<br>
 
 ### Description
