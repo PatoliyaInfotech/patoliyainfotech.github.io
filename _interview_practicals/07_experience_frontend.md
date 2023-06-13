@@ -1,6 +1,6 @@
 ---
 layout: interview_practicals
-title: "Fresher Full Stack Practical"
+title: "Experience Frontend Practical"
 ---
 
 ### Overview

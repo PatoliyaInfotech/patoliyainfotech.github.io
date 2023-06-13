@@ -10,15 +10,15 @@ title: "Experience Full Stack Practical"
 
 ### Technology Stack
 
-**Database:** MySQL, MongoDB, PostgreSQL, NoSQL, MSSql - use any one<br>
-**Server Side:** PHP, C#, Java, Node - use any one<br>
+**Database:** MySQL, MongoDB, PostgreSQL, NoSQL, MSSql<br>
+**Server Side:** PHP, C#, Java, Node, Python<br>
 **Client Side:** JS, HTML, CSS, Bootstrap, Angular, React, Vue<br>
 
 ### Description
 
 * Start of the site: You can add, edit and delete notes. You will receive an alert message of your expired tasks.
 * Edition of the note: You will get all the inputs already fill up, you don't really want to create a new note.
-* Use [this]([https://i.imgur.com/kwNiHkN.jpg]) for design reference
+* Use [this](https://i.imgur.com/kwNiHkN.jpg) for design reference
 
 <font size="3"><u>Specifications</u></font>
 
