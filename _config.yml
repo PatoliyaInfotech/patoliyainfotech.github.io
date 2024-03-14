@@ -41,6 +41,7 @@ collections:
 - typescript
 - angularjs
 - reactjs
+- nextjs
 - vuejs
 - nodejs
 - php
@@ -94,6 +95,11 @@ coding_pages:
     svg: "reactjs"
     description: ""
     permalink: "/reactjs"
+  -
+    title: "NextJs"
+    svg: "nextjs"
+    description: ""
+    permalink: "/nextjs"
   -
     title: "VueJs"
     svg: "vuejs"
