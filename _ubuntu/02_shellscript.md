@@ -6,7 +6,7 @@ title: "Shell script"
 #### How to create and run a shell script in ubuntu
 
 1. Open default “Text Editor” through the menu bar
-2. Copy the script from the **[Here](https://github.com/PatoliyaInfotech/quick-setup/blob/master/ubuntu/20-ubuntu/20-desktop-software-install-ubuntu.sh)** and paste into text editor
+2. Copy the script from the **[Here](https://github.com/PatoliyaInfotech/quick-setup/blob/master/ubuntu/22-ubuntu/22-common-stack-install.sh)** and paste into text editor
 3. Save it with the extension “.sh”
 4. Execute the shell script “name.sh” through CLI
    1. First, you have to make the shell script executable by running the following command: 
