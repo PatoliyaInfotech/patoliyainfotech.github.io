@@ -93,8 +93,8 @@ a.btn .fa {
 }
 .btn-primary,
 a.btn-primary {
-  background: #043862;
-  border: 1px solid #043862;
+  background: #0479EE;
+  border: 1px solid #0479EE;
   color: #fff !important;
 }
 .btn-primary:hover,
@@ -291,7 +291,7 @@ select {
   -webkit-appearance: none;
 }
 #topcontrol {
-  background: #043862;
+  background: #0479EE;
   color: #fff;
   text-align: center;
   display: inline-block;
@@ -325,9 +325,9 @@ select {
 }
 /* ====== Header ====== */
 .header {
-  background: #043862;
+  background: #0479EE;
   color: rgba(255, 255, 255, 0.85);
-  border-top: 5px solid #043862;
+  border-top: 5px solid #0479EE;
   padding: 20px 0;
 }
 .header a {
@@ -440,7 +440,7 @@ select {
   padding: 15px 0;
 }
 .footer a {
-  color: #043862;
+  color: #0479EE;
 }
 .footer .fa-heart {
   color: #EA5395;
@@ -469,7 +469,7 @@ select {
   margin-bottom: 30px;
 }
 .doc-header .doc-title {
-  color: #043862;
+  color: #0479EE;
   margin-top: 0;
   font-size: 36px;
 }
@@ -907,7 +907,7 @@ select {
 }
 .doc-menu > li > a:hover,
 .doc-menu > li > a:focus {
-  color: #043862;
+  color: #0479EE;
   text-decoration: none;
   background: none;
 }
@@ -937,8 +937,8 @@ select {
 }
 .doc-menu > li.active > a {
   background: none;
-  border-left: 4px solid #043862;
-  color: #043862;
+  border-left: 4px solid #0479EE;
+  color: #0479EE;
   font-weight: 600;
 }
 .body-green .doc-menu > li.active > a {
@@ -984,7 +984,7 @@ select {
   background: none;
 }
 .doc-sub-menu > li > a:hover {
-  color: #043862;
+  color: #0479EE;
   text-decoration: none;
   background: none;
 }
@@ -1011,7 +1011,7 @@ select {
 }
 .doc-sub-menu > li.active > a {
   background: none;
-  color: #043862;
+  color: #0479EE;
 }
 .body-green .doc-sub-menu > li.active > a {
   color: #75c181;
@@ -1310,19 +1310,19 @@ select {
   background: #f5f5f5;
 }
 .cards-section .item-primary .item-inner {
-  border-top: 3px solid #043862;
+  border-top: 3px solid #0479EE;
 }
 .cards-section .item-primary .item-inner:hover .title {
   color: #005e80;
 }
 .cards-section .item-primary .icon {
-  color: #043862;
+  color: #0479EE;
 }
 .cards-section .item-green .item-inner {
   border-top: 3px solid #75c181;
 }
 .cards-section .item-green .item-inner:hover .title {
-  color: #043862;
+  color: #0479EE;
 }
 .cards-section .item-green .icon {
   color: #75c181;

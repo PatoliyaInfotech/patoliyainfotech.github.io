@@ -46,133 +46,104 @@ collections:
 - nodejs
 - php
 - laravel
-- api
 - database
-- android
-- react_native
+# - android
+# - react_native
 - qa
 - seo
 - git
-- cleancode
-- datastructure
-- interview_practicals
-- practical
-
+- software_installation
+- aws_third_party_integration
 
 coding_pages:
   -
     title: "Ubuntu"
-    svg: "ubuntu"
+    png: "ubuntu"
     description: ""
-    permalink: "/ubuntu"
+    permalink: "/assets/pdf/ubuntu.pdf"
   -
     title: "HTML"
-    svg: "html"
+    png: "html"
     description: ""
-    permalink: "/html"
+    permalink: "/assets/pdf/html.pdf"
   -
     title: "CSS"
-    svg: "css"
+    png: "css"
     description: ""
-    permalink: "/css"
+    permalink: "/assets/pdf/css.pdf"
   -
     title: "Javascript"
-    svg: "javascript"
+    png: "javascript"
     description: ""
-    permalink: "/javascript"
+    permalink: "/assets/pdf/javascript.pdf"
   -
     title: "TypeScript"
-    svg: "typescript"
+    png: "typescript"
     description: ""
-    permalink: "/typescript"
+    permalink: "/assets/pdf/typescript.pdf"
   -
     title: "AngularJs"
-    svg: "angularjs"
+    png: "angularjs"
     description: ""
-    permalink: "angularjs"
+    permalink: "/assets/pdf/angularjs.pdf"
   -
     title: "ReactJs"
-    svg: "reactjs"
+    png: "reactjs"
     description: ""
-    permalink: "/reactjs"
+    permalink: "/assets/pdf/reactjs.pdf"
   -
     title: "NextJs"
-    svg: "nextjs"
+    png: "nextjs"
     description: ""
-    permalink: "/nextjs"
+    permalink: "/assets/pdf/nextjs.pdf"
   -
     title: "VueJs"
-    svg: "vuejs"
+    png: "vuejs"
     description: ""
-    permalink: "/vuejs"
+    permalink: "/assets/pdf/vuejs.pdf"
   -
     title: "NodeJs"
-    svg: "nodejs"
+    png: "nodejs"
     description: ""
-    permalink: "/nodejs"
+    permalink: "/assets/pdf/nodejs.pdf"
   -
     title: "PHP"
-    svg: "php"
+    png: "php"
     description: ""
-    permalink: "php"
+    permalink: "/assets/pdf/php.pdf"
   -
     title: "Laravel"
-    svg: "laravel"
+    png: "laravel"
     description: ""
-    permalink: "laravel"
+    permalink: "/assets/pdf/laravel.pdf"
   -
     title: "DataBase"
-    svg: "database"
+    png: "database"
     description: ""
     permalink: "/database"
   -
-    title: "Android"
-    svg: "android"
-    description: ""
-    permalink: "/android"
-  -
-    title: "React Native"
-    svg: "react_native"
-    description: ""
-    permalink: "/react_native"
-  -
     title: "QA"
-    svg: "qa"
+    png: "qa"
     description: ""
-    permalink: "/qa"
+    permalink: "/assets/pdf/qa.pdf"
   -
     title: "SEO"
-    svg: "seo"
+    png: "seo"
     description: ""
-    permalink: "/seo"
+    permalink: "/assets/pdf/seo.pdf"
   -
     title: "Git"
-    svg: "github"
+    png: "github"
     description: ""
-    permalink: "/git"
+    permalink: "/assets/pdf/git.pdf"
   -
-    title: "CleanCode"
-    svg: "cleancode"
+    title: "Software installation"
+    png: "software-installation"
     description: ""
-    permalink: "/cleancode"
+    permalink: "https://github.com/PatoliyaInfotech/quick-setup/tree/master/ubuntu/22-ubuntu"
   -
-    title: "Data Structure"
-    svg: "ds"
+    title: "AWS & Third party Integration"
+    png: "aws_third_party"
     description: ""
-    permalink: "/datastructure"
-  -
-    title: "API"
-    svg: "api"
-    description: ""
-    permalink: "/api"
-  -
-    title: "Interview Practicals"
-    svg: "interview_practicals"
-    description: ""
-    permalink: "/interview_practicals"
-  -
-    title: "Practical"
-    svg: "practical"
-    description: ""
-    permalink: "/practical"
+    permalink: "/assets/pdf/aws_third_party_integration.pdf"
 

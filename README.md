@@ -5,8 +5,6 @@
 ```
 .
 ├── _angularjs                # Angular JS Documentation
-├── _api                      # API Documentation
-├── _cleancode                # clean code Documentation
 ├── _database                 # Database Documentation
 ├── _includes                 # Template files use by Jekyll
 ├── _javascript               # Javascript Best Practices Documentation
@@ -16,7 +14,6 @@
 ├── _reactjs                  # ReactJs Documentation
 ├── _ubuntu                   # Ubuntu Documentation
 ├── _typescript               # Typescript Documentation
-├── _datastructure            # Data Structure Documentation
 ├── _css                      # CSS Documentation
 ├── _html                     # HTML Documentation
 ├── _site                     # Public directory rendered by Jekyll
