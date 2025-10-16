@@ -4,34 +4,12 @@
 ## Directory Structure
 ```
 .
-├── _angularjs                # Angular JS Documentation
 ├── _database                 # Database Documentation
 ├── _includes                 # Template files use by Jekyll
-├── _javascript               # Javascript Best Practices Documentation
 ├── _layouts                  # Template files use by Jekyll
-├── _nodejs                   # NodeJs Documentation
-├── _php                      # php related Documentation
-├── _reactjs                  # ReactJs Documentation
-├── _ubuntu                   # Ubuntu Documentation
-├── _typescript               # Typescript Documentation
-├── _css                      # CSS Documentation
-├── _html                     # HTML Documentation
 ├── _site                     # Public directory rendered by Jekyll
 ├── assets                    # Contains Styles, Images and SVG
-├── ubuntu.md                 # Ubuntu Page
-├── angularjs.md              # Angular JS Page
-├── api.md                    # API Page
-├── cleancode.md              # CleanCode Page
 ├── database.md               # Database Page
-├── git.md                    # Git Page
-├── javascript.md             # Javascript Page
-├── nodejs.md                 # NodeJs Page
-├── php.md                    # Php Page
-├── reactjs.md                # ReactJs Page
-├── typescript.md             # Typescript Page
-├── datastructure.md          # Data structure Page
-├── css.md                    # CSS Page
-├── html.md                   # HTML Page
 ├── index.md                  # Main Page of Jekyll
 ├── config.yml                # Configuration for Jekyll
 ```
