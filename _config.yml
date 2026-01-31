@@ -38,6 +38,7 @@ collections:
 - html
 - css
 - javascript
+- jquery
 - typescript
 - angularjs
 - reactjs
@@ -76,6 +77,11 @@ coding_pages:
     png: "javascript"
     description: ""
     permalink: "/assets/pdf/javascript.pdf"
+  -
+    title: "jQuery"
+    png: "jquery"
+    description: ""
+    permalink: "/assets/pdf/jquery.pdf"
   -
     title: "TypeScript"
     png: "typescript"
