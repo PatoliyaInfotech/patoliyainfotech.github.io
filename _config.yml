@@ -55,6 +55,7 @@ collections:
 - git
 - software_installation
 - aws_third_party_integration
+- ai_coding
 
 coding_pages:
   -
@@ -152,4 +153,9 @@ coding_pages:
     png: "aws_third_party"
     description: ""
     permalink: "/assets/pdf/aws_third_party_integration.pdf"
+  -
+    title: "AI powered coding"
+    png: "ai_coding"
+    description: ""
+    permalink: "/assets/pdf/ai_coding.pdf"
 
